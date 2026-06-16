@@ -1,0 +1,6 @@
+{
+  "name": "Đường Đến Trường",
+  "description": "Giúp học sinh vượt qua những con đường, đường ray và con sông nguy hiểm để đến trường an toàn trong khi thu thập sách giáo khoa và trả lời các câu hỏi thú vị!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
